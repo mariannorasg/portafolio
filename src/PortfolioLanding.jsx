@@ -72,7 +72,7 @@ const PROJECTS = [
     title: "Landing minimalista",
     description: "Plantilla responsive oscura con Tailwind y animaciones.",
     tags: ["Tailwind", "React", "UI"],
-    href: "https://github.com/tuusuario/landing-dark-grid",
+    href: "https://github.com/mariannorasg/portafolio",
   },
 ];
 
