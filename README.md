@@ -1,12 +1,18 @@
-# React + Vite
+# Portafolio – Mariano Rasgido
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Bienvenido a mi portafolio personal desarrollado con **React + Vite + TailwindCSS** y desplegado en **Vercel**.  
+---
 
-Currently, two official plugins are available:
+##  Demo en producción
+🔗 [https://marianorasgido.vercel.app](https://marianorasgido.vercel.app)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## Tecnologías usadas
+- [React](https://react.dev/) – Librería para construir interfaces de usuario.  
+- [Vite](https://vitejs.dev/) – Bundler rápido para desarrollo y producción.  
+- [TailwindCSS](https://tailwindcss.com/) – Framework de CSS utility-first.  
+- [Framer Motion](https://www.framer.com/motion/) – Animaciones fluidas en React.  
+- [Lucide React](https://lucide.dev/) – Iconografía ligera y moderna.  
+- [Vercel](https://vercel.com/) – Hosting y despliegue automático.  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
